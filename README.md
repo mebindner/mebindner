@@ -1,9 +1,9 @@
 ### Hi, I'm Martin
 
-Data analyst based in Copenhagen. I build data products on open data – from the raw API to a tested forecast
-running in production.
+Data analyst based in Copenhagen. I build end-to-end data products – from raw data and pipelines to models,
+data apps and decision tools running in production.
 
-**Focus:** forecasting · Python · R · SQL · Power BI · process automation · generative AI
+**Focus:** Python · R · SQL · data pipelines · forecasting · Power BI · process automation · generative AI
 
 ---
 
